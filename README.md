@@ -9,3 +9,4 @@ The course covers the basics of using the Express framework including:
 - API creation
 - Middleware
 - Routing
+- Handlebars templates
